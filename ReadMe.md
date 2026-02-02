@@ -1,4 +1,3 @@
-# Hi, I'm Tomás 👋🏻
 Born in 2001 in La Plata, Argentina. I'm a Full Stack Developer that strives to create functional and elegant software, and to keep learning.<br>
 
 ## 🌐 Socials:
